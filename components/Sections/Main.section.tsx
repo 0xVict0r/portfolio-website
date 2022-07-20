@@ -41,7 +41,7 @@ const Main: NextComponentType = () => {
                     <span className="text-md font-medium md:text-xl text-white custom:text-lg">Python</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                    <div className="bg-blue-600 h-1 rounded-full" style={{width: "95%"}}></div>
+                    <div className="bg-skills h-1 rounded-full" style={{width: "95%"}}></div>
                 </div>
 
                 <p> &nbsp; </p>
@@ -49,7 +49,7 @@ const Main: NextComponentType = () => {
                     <span className="text-md font-medium md:text-xl text-white custom:text-lg">Technical Writing</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                    <div className="bg-blue-600 h-1 rounded-full" style={{width: "80%"}}></div>
+                    <div className="bg-skills h-1 rounded-full" style={{width: "80%"}}></div>
                 </div>
 
                 <p> &nbsp; </p>
@@ -57,7 +57,7 @@ const Main: NextComponentType = () => {
                     <span className="text-md font-medium md:text-xl text-white custom:text-lg">MySQL</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                    <div className="bg-blue-600 h-1 rounded-full" style={{width: "70%"}}></div>
+                    <div className="bg-skills h-1 rounded-full" style={{width: "70%"}}></div>
                 </div>
 
                 <p> &nbsp; </p>
@@ -65,7 +65,7 @@ const Main: NextComponentType = () => {
                     <span className="text-md font-medium md:text-xl text-white custom:text-lg">CATIA & XFLR5</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                    <div className="bg-blue-600 h-1 rounded-full" style={{width: "60%"}}></div>
+                    <div className="bg-skills h-1 rounded-full" style={{width: "60%"}}></div>
                 </div>
             </div>
 
@@ -133,11 +133,11 @@ const Main: NextComponentType = () => {
                 <p className="text-base font-normal text-gray-500 dark:text-gray-400">Technical Writing, Technical Research, SEO, Startup Work Ethics, Wordpress, Blockchain</p>
                 <Link href="https://cryptoast.fr/author/victor-morizon/" passHref>
                     <a
-                        className="mt-3 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-400 duration-100 hover:ml-2 italic font-semibold"
+                        className="mt-3 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-300 duration-100 hover:ml-2 italic font-semibold"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        Read my Articles
+                        Read the Articles
                         <HiOutlineArrowNarrowRight />
                     </a>
                 </Link>
@@ -153,7 +153,7 @@ const Main: NextComponentType = () => {
                 <p className="text-base font-normal text-gray-500 dark:text-gray-400">Teamwork, Problem Solving, Technical Writing, Research, Leadership, Data Analysis and Simulation Model Development</p>
                 <Link href="https://github.com/sebastienvandenabeele/DSE_ecosense" passHref>
                     <a
-                        className="mt-3 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-400 duration-100 hover:ml-2 italic font-semibold"
+                        className="mt-3 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-300 duration-100 hover:ml-2 italic font-semibold"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -176,7 +176,7 @@ const Main: NextComponentType = () => {
                 <p className="text-base font-normal text-gray-500 dark:text-gray-400">Teamwork, Out-of-the-box Thinking, Problem Solving, Structural Analysis</p>
                 <Link href="https://aerodelft.nl/" passHref>
                     <a
-                        className="mt-3 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-400 duration-100 hover:ml-2 italic font-semibold"
+                        className="mt-3 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-300 duration-100 hover:ml-2 italic font-semibold"
                         target="_blank"
                         rel="noopener noreferrer"
                     >

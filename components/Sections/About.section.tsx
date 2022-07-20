@@ -25,7 +25,7 @@ const About: NextComponentType = () => {
 
         <Link href="https://www.linkedin.com/in/victor-morizon/" passHref>
           <a
-            className="mt-4 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-400 duration-100 hover:ml-2 italic font-semibold"
+            className="mt-4 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-300 duration-100 hover:ml-2 italic font-semibold"
             target="_blank"
             rel="noopener noreferrer"
           >

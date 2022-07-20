@@ -9,7 +9,7 @@ const Projects: NextComponentType = () => {
       <div className="my-8 flex flex-col items-center justify-center gap-10 sm:flex-row">
         <Link href="https://0xvict0r-financial-superapp-00--home-sy75xw.streamlitapp.com/" passHref>
           <a
-            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#88BDBC] to-[#88BDBC] p-1 text-white duration-100 hover:scale-105"
+            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-project p-1 text-white duration-100 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -22,7 +22,7 @@ const Projects: NextComponentType = () => {
 
         <Link href="https://cryptoast.fr/author/victor-morizon/" passHref>
           <a
-            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#88BDBC] to-[#88BDBC] p-1 text-white duration-100 hover:scale-105"
+            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-project p-1 text-white duration-100 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -35,7 +35,7 @@ const Projects: NextComponentType = () => {
 
         <Link href="https://github.com/0xVict0r/stable-dividend-stock-trading-strategy" passHref>
           <a
-            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#88BDBC] to-[#88BDBC] p-1 text-white duration-100 hover:scale-105"
+            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-project p-1 text-white duration-100 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >
