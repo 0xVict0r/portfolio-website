@@ -9,7 +9,6 @@ module.exports = {
         primary: "#18181B",
         project: "#f4976C",
         skills: "#B4DFE5",
-        stars: "#FBE8A6",
       },
 
       fontFamily: {
