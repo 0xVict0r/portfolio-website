@@ -27,11 +27,12 @@ const Header: NextComponentType = () => {
       <p className="hidden sm:flex sm:flex-row sm:gap-x-4">
         <TextLink text="Home" url="#" />
         <TextLink text="Skills" url="#skills" />
+        <TextLink text="Education" url="#education" />
         <TextLink text="Projects" url="#projects" />
         <TextLink text="Contact" url="#contact" />
       </p>
 
-      <Link href="https://github.com/kr-anurag/portfolio" passHref>
+      <Link href="https://github.com/0xVict0r" passHref>
         <a
           className="float-right mr-2 rounded-lg bg-zinc-800 p-2 text-2xl text-white ring-zinc-300 transition-all duration-150 hover:ring-2 sm:float-none sm:mr-0"
           target="_blank"

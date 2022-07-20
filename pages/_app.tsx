@@ -31,39 +31,39 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="Anurag | Frontend Developer"
-        titleTemplate="Anurag | Frontend Developer"
-        defaultTitle="Anurag | Frontend Developer"
-        description="Hey! I'm Anurag, A Frontend Developer, Blogger and a Student!"
-        openGraph={{
-          url: "https://www.anurag.tech/",
-          title: "Anurag | Frontend Developer",
-          description:
-            "Hey! I'm Anurag, A Frontend Developer, Blogger and a Student!",
-          images: [
-            {
-              url: "https://res.cloudinary.com/ddum5vpp3/image/upload/v1643532760/og-image_dwcwhp.png",
-              width: 800,
-              height: 420,
-              alt: "Anurag | Frontend Developer",
-            },
-          ],
-        }}
+        title="Victor | Econometrics Grad Student"
+        titleTemplate="Victor | Econometrics Grad Student"
+        defaultTitle="Victor | Econometrics Grad Student"
+        description="I'm Victor, An Aerospace Engineer, Technical Writer and Econometrics Grad Student!"
+        // openGraph={{
+        //   url: "https://www.anurag.tech/",
+        //   title: "Victor | Econometrics Grad Student",
+        //   description:
+        //     "I'm Victor, An Aerospace Engineer, Technical Writer and Econometrics Grad Student!",
+        //   images: [
+        //     {
+        //       url: "https://res.cloudinary.com/ddum5vpp3/image/upload/v1643532760/og-image_dwcwhp.png",
+        //       width: 800,
+        //       height: 420,
+        //       alt: "Victor | Econometrics Grad Student",
+        //     },
+        //   ],
+        // }}
         twitter={{
-          handle: "@kr_anurag_",
-          site: "@kr_anurag_",
+          handle: "@0xVict0r",
+          site: "@0xVict0r",
           cardType: "summary_large_image",
         }}
         additionalMetaTags={[
           {
             property: "keywords",
             content:
-              "Frontend Developer, anurag, anuragkr, Web Developer, web development, web developer, blogger, tech enthusiast, open source",
+              "Data Scientist, Econometrics, Victor, Morizon, Python Development, Python Developer, Technical Writer, Tech Enthusiast, Blokchain Writer, Data Science",
           },
         ]}
       />
       <Head>
-        <link rel="icon" type="image/png" href="/assests/avatar.png" />
+        <link rel="icon" type="image/png" href="/assets/avatar.png" />
       </Head>
       <Component {...pageProps} />
     </>
