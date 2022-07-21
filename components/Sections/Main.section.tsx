@@ -72,7 +72,7 @@ const Main: NextComponentType = () => {
             <div className="my-16 px-3 -mt-9 font-sen text-white" id="languages">
                 <p className="text-3xl font-bold text-white">Languages</p>
 
-                <div className="ml-5 grid grid-cols-2">
+                <div className="grid grid-cols-2">
 
                     <div>
                         <p> &nbsp; </p>
