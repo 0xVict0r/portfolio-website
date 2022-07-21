@@ -35,20 +35,20 @@ function MyApp({ Component, pageProps }: AppProps) {
         titleTemplate="Victor | Econometrics Grad Student"
         defaultTitle="Victor | Econometrics Grad Student"
         description="I'm Victor, An Aerospace Engineer, Technical Writer and Econometrics Grad Student!"
-        // openGraph={{
-        //   url: "https://www.anurag.tech/",
-        //   title: "Victor | Econometrics Grad Student",
-        //   description:
-        //     "I'm Victor, An Aerospace Engineer, Technical Writer and Econometrics Grad Student!",
-        //   images: [
-        //     {
-        //       url: "https://res.cloudinary.com/ddum5vpp3/image/upload/v1643532760/og-image_dwcwhp.png",
-        //       width: 800,
-        //       height: 420,
-        //       alt: "Victor | Econometrics Grad Student",
-        //     },
-        //   ],
-        // }}
+        openGraph={{
+          url: "https://www.morizon.me/",
+          title: "Victor | Econometrics Grad Student",
+          description:
+            "I'm Victor, An Aerospace Engineer, Technical Writer and Econometrics Grad Student!",
+          images: [
+            {
+              url: "../public/og-image.png",
+              width: 800,
+              height: 420,
+              alt: "Victor | Econometrics Grad Student",
+            },
+          ],
+        }}
         twitter={{
           handle: "@0xVict0r",
           site: "@0xVict0r",
@@ -63,7 +63,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         ]}
       />
       <Head>
-        <link rel="icon" type="image/png" href="/assets/avatar.png" />
+        <link rel="icon" type="image/png" href="/assets/website-logo.png" />
       </Head>
       <Component {...pageProps} />
     </>
