@@ -29,7 +29,7 @@ const Main: NextComponentType = () => {
                     <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Sept 2010 - July 2019</time>
                     <h2 className="text-lg font-semibold text-gray-900 dark:text-white">Pre-University Education</h2>
                     <h3 className="text-m text-gray-900 dark:text-white">Schools in Ningbo, Bejing, Taipei & Moscow</h3>
-                    <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Finished High School with a French Scientific Baccalauréat Général <br/> Graduated with an overall grade of <strong>19.05/20</strong> </p>
+                    <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Finished High School with a French Scientific Baccalauréat <br/> Graduated with an overall grade of <strong>19.05/20</strong> </p>
                 </li>
             </ol>
 
@@ -46,6 +46,14 @@ const Main: NextComponentType = () => {
 
                 <p> &nbsp; </p>
                 <div className="flex justify-between mb-1">
+                    <span className="text-md font-medium md:text-xl text-white custom:text-lg">Streamlit</span>
+                </div>
+                <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
+                    <div className="bg-skills h-1 rounded-full" style={{width: "85%"}}></div>
+                </div>
+
+                <p> &nbsp; </p>
+                <div className="flex justify-between mb-1">
                     <span className="text-md font-medium md:text-xl text-white custom:text-lg">Technical Writing</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
@@ -57,15 +65,7 @@ const Main: NextComponentType = () => {
                     <span className="text-md font-medium md:text-xl text-white custom:text-lg">MySQL</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                    <div className="bg-skills h-1 rounded-full" style={{width: "60%"}}></div>
-                </div>
-
-                <p> &nbsp; </p>
-                <div className="flex justify-between mb-1">
-                    <span className="text-md font-medium md:text-xl text-white custom:text-lg">Vyper</span>
-                </div>
-                <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                    <div className="bg-skills h-1 rounded-full" style={{width: "40%"}}></div>
+                    <div className="bg-skills h-1 rounded-full" style={{width: "50%"}}></div>
                 </div>
 
                 <p> &nbsp; </p>
@@ -73,7 +73,7 @@ const Main: NextComponentType = () => {
                     <span className="text-md font-medium md:text-xl text-white custom:text-lg">Java</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                    <div className="bg-skills h-1 rounded-full" style={{width: "40%"}}></div>
+                    <div className="bg-skills h-1 rounded-full" style={{width: "30%"}}></div>
                 </div>
             </div>
 
