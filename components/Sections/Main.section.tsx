@@ -62,7 +62,7 @@ const Main: NextComponentType = () => {
 
                 <p> &nbsp; </p>
                 <div className="flex justify-between mb-1">
-                    <span className="text-md font-medium md:text-xl text-white custom:text-lg">MySQL</span>
+                    <span className="text-md font-medium md:text-xl text-white custom:text-lg">PostgreSQL</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
                     <div className="bg-skills h-1 rounded-full" style={{width: "50%"}}></div>
