@@ -73,7 +73,7 @@ const Main: NextComponentType = () => {
                     <span className="text-md font-medium md:text-xl text-white custom:text-lg">Java</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                    <div className="bg-skills h-1 rounded-full" style={{width: "30%"}}></div>
+                    <div className="bg-skills h-1 rounded-full" style={{width: "20%"}}></div>
                 </div>
             </div>
 
