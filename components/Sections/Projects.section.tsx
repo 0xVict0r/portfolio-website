@@ -7,7 +7,7 @@ const Projects: NextComponentType = () => {
     <div className="my-16 px-3 font-sen" id="projects">
       <p className="text-3xl font-bold text-white">Featured Work</p>
       <div className="my-8 flex flex-col items-center justify-center gap-10 sm:flex-row">
-        <Link href="https://www.superapp.morizon.me/" passHref>
+        <Link href="https://www.superapp.morizon.dev/" passHref>
           <a
             className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-project p-1 text-white duration-100 hover:scale-105"
             target="_blank"

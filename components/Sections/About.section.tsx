@@ -11,11 +11,11 @@ const About: NextComponentType = () => {
       <div>
         <p className="text-3xl font-bold text-white">Victor Morizon</p>
         <p className="mt-1 text-lg text-gray-300">
-          21 y/o Aerospace Engineer, Freelance Writer, Econometrics Grad Student
+          21 y/o Aerospace Engineer, Freelance Writer, Econometrics/Quant Finance Grad Student
         </p>
 
         <p className="mt-4 text-gray-400">
-          Building Data & Financial apps in Python <br /> Writing Technical Blockchain articles at Cryptoast  <br /> Studying Econometrics in Rotterdam
+          Building Data & Financial apps in Python <br /> Writing Technical Blockchain articles at Cryptoast  <br /> Studying Econometrics/Quant Finance in Rotterdam
         </p>
 
         <p className="mt-4 text-gray-400">
