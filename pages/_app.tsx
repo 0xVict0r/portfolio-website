@@ -36,7 +36,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         defaultTitle="Victor | Econometrics Grad Student"
         description="I'm Victor, An Aerospace Engineer, Technical Writer and Econometrics Grad Student!"
         openGraph={{
-          url: "https://www.morizon.me/",
+          url: "https://www.morizon.dev/",
           title: "Victor | Econometrics Grad Student",
           description:
             "I'm Victor, An Aerospace Engineer, Technical Writer and Econometrics Grad Student!",
