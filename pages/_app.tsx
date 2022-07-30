@@ -58,7 +58,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           {
             property: "keywords",
             content:
-              "Data Scientist, Econometrics, Victor, Morizon, Python Development, Python Developer, Technical Writer, Tech Enthusiast, Blokchain Writer, Data Science",
+              "Data Scientist, Econometrics, Victor Morizon, Victor, Morizon, Python Development, Python Developer, Technical Writer, Tech Enthusiast, Blokchain Writer, Data Science",
           },
         ]}
       />
