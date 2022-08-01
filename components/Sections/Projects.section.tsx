@@ -45,6 +45,20 @@ const Projects: NextComponentType = () => {
             </div>
           </a>
         </Link>
+
+        <Link href="https://www.movie-app.morizon.dev/" passHref>
+          <a
+            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-project p-1 text-white duration-100 hover:scale-105"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <div className="flex h-full w-full flex-col items-center justify-center rounded-lg bg-primary px-2 text-center font-medium">
+              <p className="text-xl font-semibold">Movie Aggregator</p>
+              <p>A movie lookup/rating aggregator tool </p>
+            </div>
+          </a>
+        </Link>
+
       </div>
     </div>
   );
