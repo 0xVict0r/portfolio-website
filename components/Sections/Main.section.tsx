@@ -49,28 +49,28 @@ const Main: NextComponentType = () => {
                     <span className="text-md font-medium md:text-xl text-white custom:text-lg">Streamlit</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                    <div className="bg-skills h-1 rounded-full" style={{width: "85%"}}></div>
-                </div>
-
-                <p> &nbsp; </p>
-                <div className="flex justify-between mb-1">
-                    <span className="text-md font-medium md:text-xl text-white custom:text-lg">Technical Writing</span>
-                </div>
-                <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
                     <div className="bg-skills h-1 rounded-full" style={{width: "80%"}}></div>
                 </div>
 
                 <p> &nbsp; </p>
                 <div className="flex justify-between mb-1">
-                    <span className="text-md font-medium md:text-xl text-white custom:text-lg">PostgreSQL</span>
+                    <span className="text-md font-medium md:text-xl text-white custom:text-lg">Java</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                    <div className="bg-skills h-1 rounded-full" style={{width: "50%"}}></div>
+                    <div className="bg-skills h-1 rounded-full" style={{width: "70%"}}></div>
                 </div>
 
                 <p> &nbsp; </p>
                 <div className="flex justify-between mb-1">
-                    <span className="text-md font-medium md:text-xl text-white custom:text-lg">FastApi</span>
+                    <span className="text-md font-medium md:text-xl text-white custom:text-lg">Matlab</span>
+                </div>
+                <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
+                    <div className="bg-skills h-1 rounded-full" style={{width: "65%"}}></div>
+                </div>
+
+                <p> &nbsp; </p>
+                <div className="flex justify-between mb-1">
+                    <span className="text-md font-medium md:text-xl text-white custom:text-lg">PostreSQL</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
                     <div className="bg-skills h-1 rounded-full" style={{width: "50%"}}></div>
