@@ -155,7 +155,7 @@ const Main: NextComponentType = () => {
                 <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Apr 2022 - July 2022</time>
                 <h2 className="text-lg font-semibold text-gray-900 dark:text-white">Design Synthesis Exercise</h2>
                 <h3 className="text-m text-gray-900 dark:text-white">Delft University of Technology (TU Delft)</h3>
-                <p className="mb-2 text-base font-normal text-gray-500 dark:text-gray-400">Working in a team of 10 students on a common engineering design exercise. The product in development is called EcoSense, a sensor network and its aerial deployment system meant to gather data in inaccessible ecosystems to detect wildfires.</p>
+                <p className="mb-2 text-base font-normal text-gray-500 dark:text-gray-400">Working in a team of 10 students on a common engineering design exercise. The product in development is called EcoSense, a sensor network and its aerial deployment system meant to gather data in inaccessible ecosystems to detect Wildfires.</p>
                 <p className="mb-2 text-base font-normal text-gray-500 dark:text-gray-400">Position in the team: <em><strong>Network Engineer</strong></em></p>
                 <p className="text-base font-normal text-gray-500 dark:text-gray-400"><strong>Skills Obtained:</strong></p>
                 <p className="text-base font-normal text-gray-500 dark:text-gray-400">Teamwork, Problem Solving, Technical Writing, Research, Leadership, Data Analysis and Simulation Model Development</p>
