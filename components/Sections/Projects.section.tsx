@@ -33,15 +33,15 @@ const Projects: NextComponentType = () => {
           </a>
         </Link>
 
-        <Link href="https://github.com/0xVict0r/stable-dividend-stock-trading-strategy" passHref>
+        <Link href="https://github.com/0xVict0r" passHref>
           <a
             className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-project p-1 text-white duration-100 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >
             <div className="flex h-full w-full flex-col items-center justify-center rounded-lg bg-primary px-2 text-center font-medium">
-              <p className="text-xl font-semibold">Algo Trading Bot</p>
-              <p>My telegram stock buying signal bot</p>
+              <p className="text-xl font-semibold">Github Repo</p>
+              <p>My Repo containing more projects</p>
             </div>
           </a>
         </Link>
